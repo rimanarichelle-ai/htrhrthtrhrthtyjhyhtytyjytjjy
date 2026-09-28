@@ -1,0 +1,8 @@
+{
+  "name": "Remix DZ RENT CAR - Location de voitures à Alger",
+  "description": "Plateforme officielle de location de voitures DZ RENT CAR à Alger et Dar El Beïda. Flotte récente, livraison aéroport Houari Boumediene, assistance 24/7 et réservation rapide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
